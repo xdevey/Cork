@@ -44,7 +44,7 @@ Felt like trying to get Roblox to run on your Ampere Altra or your Talos II? Goo
 ### Building
 #### Cloning the Repository
 ```bat
-git clone https://github.com/CorkHQ/Cork.git
+git clone https://github.com/Cor77kHQ/Cork.git
 cd Cork
 ```
 
